@@ -25,7 +25,7 @@ you can leave <img src="https://cdn.7tv.app/emote/625e87e852d094ac8902db0c/1x"/>
 <strong><p align="center">Other things</p></strong>
 
 <p>I'm a student, but i have some projects</p>
-<img src="https://i.postimg.cc/Dy1psdcg/aaaaaaaaaa.png" align="right" width="450" style="margin-right:10px">
+<img src="https://i.postimg.cc/Dy1psdcg/aaaaaaaaaa.png" align="right" width="400">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=ProyectoPV&theme=gruvbox)](https://github.com/ShonSagoro/ProyectoPV)
 
