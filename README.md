@@ -15,7 +15,7 @@ you can leave <img src="https://cdn.7tv.app/emote/625e87e852d094ac8902db0c/1x"/>
   <h2>
   <img src="https://cdn.7tv.app/emote/613f49d5962a609048643d2a/1x" />Stats <img src="https://cdn.7tv.app/emote/613f49d5962a609048643d2a/1x"/>  
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shonsagoro&theme=monokai&show_icons=true)](https://github.com/ShonSagoro)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shonsagoro&theme=nightowl&show_icons=true)](https://github.com/ShonSagoro)
   
   </h2> 
 </div>
@@ -27,9 +27,9 @@ you can leave <img src="https://cdn.7tv.app/emote/625e87e852d094ac8902db0c/1x"/>
 <p>I'm a student, but i have some projects</p>
 <img src="https://i.postimg.cc/Dy1psdcg/aaaaaaaaaa.png" align="right" width="400">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=ProyectoPV&theme=gruvbox)](https://github.com/ShonSagoro/ProyectoPV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=ProyectoPV&theme=nightowl)](https://github.com/ShonSagoro/ProyectoPV)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=ProjectFOF&theme=monokai)](https://github.com/ShonSagoro/ProjectFOF)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=ProjectFOF&theme=nightowl)](https://github.com/ShonSagoro/ProjectFOF)
 
 </div>
 
