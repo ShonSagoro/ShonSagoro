@@ -33,7 +33,7 @@ you can leave <img src="https://cdn.7tv.app/emote/625e87e852d094ac8902db0c/1x"/>
 
 </div>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/shonsagoro/shonsagoro/blob/output/github-contribution-grid-snake.svg)
 
 
 
