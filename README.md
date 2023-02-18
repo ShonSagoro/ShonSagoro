@@ -28,11 +28,11 @@ you can leave <img src="https://cdn.7tv.app/emote/625e87e852d094ac8902db0c/1x"/>
 <p>I'm a student, but i have some projects</p>
 <img src="https://i.postimg.cc/Dy1psdcg/aaaaaaaaaa.png" align="right" width="400">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=Artist-Page&theme=nightowl)](https://github.com/ShonSagoro/ProyectoPV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=Artist-Page&theme=nightowl)](https://github.com/ShonSagoro/Artist-Page)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=API_RMS&theme=nightowl)](https://github.com/ShonSagoro/ProjectFOF)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=API_RMS&theme=nightowl)](https://github.com/ShonSagoro/API_RMS)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=Chat-TCP&theme=nightowl)](https://github.com/ShonSagoro/ProjectFOF)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=Chat-TCP&theme=nightowl)](https://github.com/ShonSagoro/Chat-TCP)
 
 </div>
 
