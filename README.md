@@ -15,7 +15,9 @@ you can leave <img src="https://cdn.7tv.app/emote/625e87e852d094ac8902db0c/1x"/>
   
   <h2>
   <img src="https://cdn.7tv.app/emote/613f49d5962a609048643d2a/1x" />Stats <img src="https://cdn.7tv.app/emote/613f49d5962a609048643d2a/1x"/>  
+    
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shonsagoro&theme=nightowl&show_icons=true)](https://github.com/ShonSagoro)
+  
   </h2> 
   
 </div>
