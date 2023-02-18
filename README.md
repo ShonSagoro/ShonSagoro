@@ -29,7 +29,7 @@ you can leave <img src="https://cdn.7tv.app/emote/625e87e852d094ac8902db0c/1x"/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=ProyectoPV&theme=nightowl)](https://github.com/ShonSagoro/ProyectoPV)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=ProjectFOF&theme=nightowl)](https://github.com/ShonSagoro/ProjectFOF)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=API_RMS&theme=nightowl)](https://github.com/ShonSagoro/ProjectFOF)
 
 </div>
 
