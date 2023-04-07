@@ -19,7 +19,9 @@ Currently student 😶‍🌫️
 </div>
 
 <div>
-<p>Projects</p>
+
+### Projects
+
 <img src="https://i.postimg.cc/Dy1psdcg/aaaaaaaaaa.png" align="right" width="400">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=Artist-Page&theme=nightowl)](https://github.com/ShonSagoro/Artist-Page)
@@ -30,7 +32,7 @@ Currently student 😶‍🌫️
 
 </div>
 
-## my programming skills
+## My programming skills: 
 
 <p align="center">
   <img src='https://i.postimg.cc/52zrYmKK/c.png' height='42px'/>
