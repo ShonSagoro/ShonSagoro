@@ -1,5 +1,6 @@
-<h1>Hi, I'm Shon, welcome to my litte profile <img src="https://i.postimg.cc/SRyYfFSG/2x.webp"/></h1>
+<h1>Hi, I'm Shon, welcome to my litte profile <img src="https://i.postimg.cc/SRyYfFSG/2x.webp" height='42px'/></h1>
 
+# Bio
 
 Currently student 😶‍🌫️
 
@@ -8,10 +9,10 @@ Currently student 😶‍🌫️
 
 <div align="center">
   
-  <img src="https://i.postimg.cc/qq0yD6Ly/2x.webp" /> Stats <img src="https://i.postimg.cc/qq0yD6Ly/2x.webp"/>  
+  <img src="https://i.postimg.cc/qq0yD6Ly/2x.webp" height='42px'/> Stats <img src="https://i.postimg.cc/qq0yD6Ly/2x.webp" height='42px'/>  
     
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shonsagoro&theme=nightowl&show_icons=true)](https://github.com/ShonSagoro)
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shonsagoro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shonsagoro&theme=nightowl&show_icons=true)](https://github.com/ShonSagoro) <br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shonsagoro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=shonsagoro&theme=nightowl&hide_border=false)
  
   
@@ -29,14 +30,13 @@ Currently student 😶‍🌫️
 
 </div>
 
-<p>my programming skills</p>
+## my programming skills
 
 <p align="center">
   <img src='https://i.postimg.cc/52zrYmKK/c.png' height='42px'/>
   <img src='https://i.postimg.cc/FKgnGH4j/java.png' height='42px'/>
   <img src='https://i.postimg.cc/43TSzhrf/javascript.png' height='42px'/>
   <img src='https://i.postimg.cc/76HtRrHj/mysql.png' height='42px'/>
-  <img src='https://i.postimg.cc/90z8WPqp/rust.png' height='42px'/>
   <img src='https://i.postimg.cc/J0gTtyNW/react.png' height='42px'/>
   <img src='https://i.postimg.cc/85ZXQXsc/springboot.png' height='42px'/>
 <p>
