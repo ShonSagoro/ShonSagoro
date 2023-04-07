@@ -1,31 +1,24 @@
-<h1>Hi, I'm Shon, welcome to my profile <img src="https://cdn.7tv.app/emote/60e6ff484af5311ddcadae45/1x"/></h1>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
+<h1>Hi, I'm Shon, welcome to my litte profile <img src="https://i.postimg.cc/SRyYfFSG/2x.webp"/></h1>
 
-<h2>Yeah... this is basically all<br>
-you can leave <img src="https://cdn.7tv.app/emote/625e87e852d094ac8902db0c/1x"/>
-<br>nah, take a coffee <img src="https://cdn.7tv.app/emote/61267dcb0fabd4d3e46a9e24/1x"/>, and check this 🦦
-</h2>
+
+Currently student 😶‍🌫️
+
+🧮 Mathematics Lover,  🖥️ Backend, ✏️ Illustrator.  
+
 
 <div align="center">
   
-  <h2>
-  <img src="https://cdn.7tv.app/emote/613f49d5962a609048643d2a/1x" />Stats <img src="https://cdn.7tv.app/emote/613f49d5962a609048643d2a/1x"/>  
+  <img src="https://i.postimg.cc/qq0yD6Ly/2x.webp" /> Stats <img src="https://i.postimg.cc/qq0yD6Ly/2x.webp"/>  
     
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shonsagoro&theme=nightowl&show_icons=true)](https://github.com/ShonSagoro)
-  
-  </h2> 
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shonsagoro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=shonsagoro&theme=nightowl&hide_border=false)
+ 
   
 </div>
+
 <div>
-
-<strong><p align="center">Other things</p></strong>
-
-<p>I'm a student, but i have some projects</p>
+<p>Projects</p>
 <img src="https://i.postimg.cc/Dy1psdcg/aaaaaaaaaa.png" align="right" width="400">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=Artist-Page&theme=nightowl)](https://github.com/ShonSagoro/Artist-Page)
@@ -35,5 +28,17 @@ you can leave <img src="https://cdn.7tv.app/emote/625e87e852d094ac8902db0c/1x"/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=Chat-TCP&theme=nightowl)](https://github.com/ShonSagoro/Chat-TCP)
 
 </div>
+
+<p>my programming skills</p>
+
+<p align="center">
+  <img src='https://i.postimg.cc/52zrYmKK/c.png' height='42px'/>
+  <img src='https://i.postimg.cc/FKgnGH4j/java.png' height='42px'/>
+  <img src='https://i.postimg.cc/43TSzhrf/javascript.png' height='42px'/>
+  <img src='https://i.postimg.cc/76HtRrHj/mysql.png' height='42px'/>
+  <img src='https://i.postimg.cc/90z8WPqp/rust.png' height='42px'/>
+  <img src='https://i.postimg.cc/J0gTtyNW/react.png' height='42px'/>
+  <img src='https://i.postimg.cc/85ZXQXsc/springboot.png' height='42px'/>
+<p>
 
 ![Snake animation](https://github.com/ShonSagoro/ShonSagoro/blob/output/github-contribution-grid-snake.svg)
