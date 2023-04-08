@@ -42,5 +42,6 @@ Currently student 😶‍🌫️
   <img src='https://i.postimg.cc/J0gTtyNW/react.png' height='42px'/>
   <img src='https://i.postimg.cc/85ZXQXsc/springboot.png' height='42px'/>
 <p>
+ ![](https://komarev.com/ghpvc/?username=shonsagoro-github-username&color=yellow)
 
 ![Snake animation](https://github.com/ShonSagoro/ShonSagoro/blob/output/github-contribution-grid-snake.svg)
