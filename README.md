@@ -18,9 +18,9 @@ Currently student 😶‍🌫️
   
 </div>
 
-<div>
 
-### Projects
+## Projects
+
 
 <img src="https://i.postimg.cc/Dy1psdcg/aaaaaaaaaa.png" align="right" width="400">
 
@@ -30,9 +30,8 @@ Currently student 😶‍🌫️
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=Chat-TCP&theme=nightowl)](https://github.com/ShonSagoro/Chat-TCP)
 
-</div>
 
-## My programming skills: 
+## Skills and Utilities 
 
 <p align="center">
   <img src='https://i.postimg.cc/52zrYmKK/c.png' height='42px'/>
@@ -41,6 +40,7 @@ Currently student 😶‍🌫️
   <img src='https://i.postimg.cc/76HtRrHj/mysql.png' height='42px'/>
   <img src='https://i.postimg.cc/J0gTtyNW/react.png' height='42px'/>
   <img src='https://i.postimg.cc/85ZXQXsc/springboot.png' height='42px'/>
+  <img src='https://i.postimg.cc/k4LsDpSj/docker-logo-1024x876.png' height='42px'/>
 <p>
 
 ![](https://komarev.com/ghpvc/?username=shonsagoro-github-username&color=yellow)
