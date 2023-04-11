@@ -44,5 +44,3 @@ Currently student 😶‍🌫️
 <p>
 
 ![](https://komarev.com/ghpvc/?username=shonsagoro-github-username&color=yellow)
-
-![Snake animation](https://github.com/ShonSagoro/ShonSagoro/blob/output/github-contribution-grid-snake.svg)
