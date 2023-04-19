@@ -9,8 +9,6 @@ Currently student 😶‍🌫️
 
 <div align="center">
   
-  <img src="https://i.postimg.cc/qq0yD6Ly/2x.webp" height='42px'/> Stats <img src="https://i.postimg.cc/qq0yD6Ly/2x.webp" height='42px'/>  
-    
   ![](https://github-readme-streak-stats.herokuapp.com/?user=shonsagoro&theme=nightowl&hide_border=false)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shonsagoro&theme=nightowl&show_icons=true)](https://github.com/ShonSagoro) <br/>
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shonsagoro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
