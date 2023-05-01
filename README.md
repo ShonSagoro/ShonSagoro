@@ -4,7 +4,7 @@
 
 Currently student 😶‍🌫️
 
-🧮 Mathematics Lover,  🖥️ Backend, ✏️ Illustrator.  
+🧮 Lover of Mathematics,  🖥️ Backend, ✏️ Illustrator.  
 
 
 <div align="center">
