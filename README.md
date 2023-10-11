@@ -1,5 +1,5 @@
 > [!NOTE]
-> Hi, I'm Shon, welcome to my litte profile <img src="https://cdn.7tv.app/emote/60aee9d5361b0164e60d02c2/2x.webp" height='30px'/>
+> Hi, I'm Shon, welcome to my litte profile <img src="https://i.postimg.cc/25FhN45r/2x.webp" height='30px'/>
 
 <div align="center">
 <img src="https://media3.giphy.com/media/CRJqX2pz2RA8E/giphy.gif?cid=ecf05e47um83n0sgkk3tsf8uturj9ewwt275rjfx7q3my0cw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
