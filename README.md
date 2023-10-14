@@ -20,7 +20,7 @@ Currently student 😶‍🌫️
 
 ## Projects
 
-<img src="https://i.postimg.cc/PqPqLMvk/shon-credits.png" align="right" width="40%">
+<img src="https://i.postimg.cc/PqPqLMvk/shon-credits.png" align="right" width="50%" >
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=GoTris&theme=nightowl)](https://github.com/ShonSagoro/Artist-Page)
 
