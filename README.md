@@ -1,5 +1,5 @@
 > [!NOTE]
-> Hi, I'm Shon, welcome to my litte profile 🦡
+> Yoo, I'm Shon, Mexican Developer 🦡
 
 <div align="center">
 <img src="https://media3.giphy.com/media/CRJqX2pz2RA8E/giphy.gif?cid=ecf05e47um83n0sgkk3tsf8uturj9ewwt275rjfx7q3my0cw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
