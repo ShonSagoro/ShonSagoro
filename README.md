@@ -7,7 +7,7 @@
 
 # Bio
 
-Currently student 😶‍🌫️
+Currently Rust 😶‍🌫️
 
 🧮 Mathematics,  🖥️ Backend, ✏️ Illustrator.  
 
