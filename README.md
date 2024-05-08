@@ -7,7 +7,7 @@
 
 # Bio
 
-Currently Rust 😶‍🌫️
+Currently learn Rust 😶‍🌫️
 
 🧮 Mathematics,  🖥️ Backend, ✏️ Illustrator.  
 
@@ -39,6 +39,9 @@ Currently Rust 😶‍🌫️
   <img src='https://i.postimg.cc/J0gTtyNW/react.png' height='42px'/>
   <img src='https://i.postimg.cc/85ZXQXsc/springboot.png' height='42px'/>
   <img src='https://i.postimg.cc/k4LsDpSj/docker-logo-1024x876.png' height='42px'/>
+  <img src='https://i.postimg.cc/gJ3bBGNS/rust.png' height='42px'/>
+  <img src='https://i.postimg.cc/FHkWxDPG/php.png' height='42px'/>
+  <img src='https://i.postimg.cc/Wbwgcrdj/laravel.png' height='42px'/>
 </div><br/>
 
 <div align="center">
