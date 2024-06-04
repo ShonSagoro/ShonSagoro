@@ -44,6 +44,12 @@ Currently learn Rust  😶‍🌫️
   <img width="12" />  
   <img src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23FFFFFF" height="30" alt="rust logo"></img>
   <img width="12" />  
+  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="30" alt="typescript logo"></img>
+  <img width="12" />  
+  <img src="https://devicon-website.vercel.app/api/php/original.svg" height="30" alt="php logo"></img>
+  <img width="12" />  
+  <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="30" alt="html logo"></img>
+
 </div>
 
 ## Frameworks & Libraries
@@ -63,6 +69,13 @@ Currently learn Rust  😶‍🌫️
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/spring/original-wordmark.svg" height="30" alt="spring logo"></img>
   <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" height="30" alt="taildwind logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/tensorflow/original.svg" height="30" alt="tensorflow logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" height="30" alt="express logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg" height="30" alt="nodejs logo"></img>
 </div>
 
 ## Software & organization
@@ -88,6 +101,11 @@ Currently learn Rust  😶‍🌫️
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/raspberrypi/original.svg" height="30" alt="raspberrypi logo"></img>
   <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/trello/plain.svg" height="30" alt="trello logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" height="30" alt="ubuntu logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" height="30" alt="vscode logo"></img>
 </div>
 
 ## Cloud Services
