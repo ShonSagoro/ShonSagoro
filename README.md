@@ -69,7 +69,7 @@ Currently learn Rust  😶‍🌫️
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/spring/original-wordmark.svg" height="30" alt="spring logo"></img>
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" height="30" alt="taildwind logo"></img>
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="30" alt="taildwind logo"></img>
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/tensorflow/original.svg" height="30" alt="tensorflow logo"></img>
   <img width="12" />
