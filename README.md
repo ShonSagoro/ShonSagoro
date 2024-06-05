@@ -17,7 +17,6 @@ Currently learn Rust  😶‍🌫️
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shonsagoro&theme=nightowl&hide_border=false&layout=compact">
 </div>
 
-
 ## Projects
 <img src="https://i.postimg.cc/wTrBbL44/ditheing.png" align="right" width="45%" >
 <div align="left">
@@ -88,7 +87,7 @@ Currently learn Rust  😶‍🌫️
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg" height="30" alt="laravel logo"></img>
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/socketio/original.svg" height="30" alt="socket_io logo"></img>
+  <img src="https://devicon-website.vercel.app/api/socketio/original.svg?color=%23FFFFFF" height="30" alt="socket_io logo"></img>
 </div>
 
 <div align="center">
