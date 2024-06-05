@@ -26,7 +26,12 @@ Currently learn Rust  😶‍🌫️
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=FreqPy&theme=nightowl" width="45%" >
 </div>
 
-## Programming languages (& HTML)
+## Skills
+<div align="center">
+
+### Programming languages (& HTML)
+
+</div>
 <div align="center">
   <img src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" height="30" alt="bash_script logo"></img>
   <img width="12" />
@@ -52,7 +57,11 @@ Currently learn Rust  😶‍🌫️
 
 </div>
 
-## Frameworks & Libraries
+<div align="center">
+
+### Frameworks & Libraries
+
+</div>
 
 <div align="center">
   <img src="https://devicon-website.vercel.app/api/electron/original.svg?color=%2300D9FF" height="30" alt="electron logo"></img>
@@ -76,9 +85,17 @@ Currently learn Rust  😶‍🌫️
   <img src="https://devicon-website.vercel.app/api/express/original.svg?color=%23FFFFFF" height="30" alt="express logo"></img>
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/nodejs/original-wordmark.svg" height="30" alt="nodejs logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg" height="30" alt="laravel logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/socketio/original.svg" height="30" alt="socket_io logo"></img>
 </div>
 
-## Software & organization
+<div align="center">
+
+### Software & organization
+
+</div>
 
 <div align="center">
   <img src="https://devicon-website.vercel.app/api/jupyter/original.svg" height="30" alt="jupiter logo"></img>
@@ -106,9 +123,21 @@ Currently learn Rust  😶‍🌫️
   <img src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" height="30" alt="ubuntu logo"></img>
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/vscode/original.svg" height="30" alt="vscode logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/anaconda/original.svg" height="30" alt="anaconda logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/composer/original.svg" height="30" alt="composer logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/debian/original-wordmark.svg" height="30" alt="debian logo"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/nginx/original.svg" height="30" alt="nginx logo"></img>
 </div>
 
-## Cloud Services
+<div align="center">
+
+### Cloud Services
+
+</div>
 
 <div align="center">
   <img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="30" alt="mysql logo"></img>
