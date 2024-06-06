@@ -18,6 +18,7 @@ Currently learn Rust  😶‍🌫️
 </div>
 
 **Social media**
+<br/>
 <a href="https://www.linkedin.com/in/jonathan-g%C3%B3mez-roque-shon/" target="_blank"><img src="https://devicon-website.vercel.app/api/linkedin/original.svg" height="50" alt="bash_script logo"></img></a>
 
 ## Projects
