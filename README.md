@@ -17,7 +17,7 @@ Currently learn Rust  😶‍🌫️
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shonsagoro&theme=nightowl&hide_border=false&layout=compact">
 </div>
 
-**Social media**
+### Social media
 <br/>
 <a href="https://www.linkedin.com/in/jonathan-g%C3%B3mez-roque-shon/" target="_blank"><img src="https://devicon-website.vercel.app/api/linkedin/original.svg" height="50" alt="bash_script logo"></img></a>
 
