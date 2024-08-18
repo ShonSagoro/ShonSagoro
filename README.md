@@ -25,7 +25,7 @@
 <br/>
 
 ## Projects
-<img src="https://i.postimg.cc/wTrBbL44/ditheing.png" align="right" height=370 >
+<img src="https://i.postimg.cc/wTrBbL44/ditheing.png" align="right" height=340 >
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=GoTris&theme=material-palenight&hide_border=true&contribs&bg_color=00000000" width="45%" >
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=API_RMS&theme=material-palenight&hide_border=true&contribs&bg_color=00000000" width="45%" >
