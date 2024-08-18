@@ -22,7 +22,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shonsagoro&&theme=material-palenight&hide_border=true&background=FFFFFF00&layout=compact">
 </div>
 
-### Social media
 <br/>
 
 ## Projects
