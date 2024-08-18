@@ -1,32 +1,36 @@
-> [!NOTE]
+
+<img align="right" src="https://media3.giphy.com/media/CRJqX2pz2RA8E/giphy.gif?cid=ecf05e47um83n0sgkk3tsf8uturj9ewwt275rjfx7q3my0cw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 > Yoo, I'm Shon, Mexican Developer 🦡
 
+> Currently learn Rust and Go😶‍🌫️
+
+> 🧮 Mathematics,  🖥️ Backend dev.
+
+> Social Media
+<br/> 
+<a align="left" href="https://www.linkedin.com/in/jonathan-g%C3%B3mez-roque-shon/" target="_blank"><img src="https://devicon-website.vercel.app/api/linkedin/original.svg" height="50" alt="linkedin logo"></img></a>
+<a align="left" href="https://x.com/ShonSagoro" target="_blank"><img src="https://github.com/user-attachments/assets/01c5fb0f-98ff-4649-8e36-1f2f79ef8773" height="50" alt="twitter logo"></img></a>
+
+<br clear="both">
+
+# Statistics
+
 <div align="center">
-<img src="https://media3.giphy.com/media/CRJqX2pz2RA8E/giphy.gif?cid=ecf05e47um83n0sgkk3tsf8uturj9ewwt275rjfx7q3my0cw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-</div>
-
-# About me
-
-Currently learn Rust  😶‍🌫️
-
-🧮 Mathematics,  🖥️ Backend dev.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shonsagoro&theme=nightowl&rank_icon=github&hide=issues" height="50%" width="auto">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shonsagoro&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=css,cmake" height="50%" width="auto">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shonsagoro&theme=nightowl&hide_border=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=shonsagoro&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000&rank_icon=github" height="50%" width="auto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shonsagoro&theme=material-palenight&hide_border=true&contribs&bg_color=00000000&include_all_commits=false&count_private=true&layout=compact&hide=css,cmake" height="50%" width="auto">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shonsagoro&&theme=material-palenight&hide_border=true&background=FFFFFF00&layout=compact">
 </div>
 
 ### Social media
 <br/>
-<a href="https://www.linkedin.com/in/jonathan-g%C3%B3mez-roque-shon/" target="_blank"><img src="https://devicon-website.vercel.app/api/linkedin/original.svg" height="50" alt="bash_script logo"></img></a>
 
 ## Projects
-<img src="https://i.postimg.cc/wTrBbL44/ditheing.png" align="right" width="45%" >
+<img src="https://i.postimg.cc/wTrBbL44/ditheing.png" align="right" height=370 >
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=GoTris&theme=nightowl" width="45%" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=API_RMS&theme=nightowl" width="45%" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=FreqPy&theme=nightowl" width="45%" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=GoTris&theme=material-palenight&hide_border=true&contribs&bg_color=00000000" width="45%" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=API_RMS&theme=material-palenight&hide_border=true&contribs&bg_color=00000000" width="45%" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shonsagoro&repo=FreqPy&theme=material-palenight&hide_border=true&contribs&bg_color=00000000" width="45%" >
 </div>
 
 ## Skills
